@@ -12,7 +12,7 @@ Use remember composable to store objects in a Composition to memory.
 Refresh the UI with the mutableStateOf()function to make an observable.
 
 # Run :
-Solution code URL: https://github.com/Harish-Srinivas-07/Dice-Roller
+Code URL: https://github.com/Harish-Srinivas-07/Dice-Roller
 
 Navigate to the provided GitHub repository page for the project.
 
